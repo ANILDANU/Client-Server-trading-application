@@ -6,4 +6,4 @@ To host server: ./server <port _no>
 To host client: ./client 127.0.0.1 <port_no>
 
 
-//improvement needed: To make little more interactive
+//Will make little more interactive in future
